@@ -1,0 +1,2 @@
+# Determinantes-da-migracao-na-Bahia
+Neste trabalho foram analisados os condicionantes socioeconômicos e demográficos da imigração municipal no estado da Bahia. A partir dos microdados do Censos Demográficos 2000 e 2010 foi analisada a distribuição espacial dos grupos municipais, definidos a partir de uma clusterização hierárquica. Além disso foi efetuada uma regressão com dados empilhados para avaliar o efeito dos indicadores socioeconômicos e demográficos na imigração municipal no estado da Bahia. 
